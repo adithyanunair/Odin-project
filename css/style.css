@@ -1,0 +1,97 @@
+/* links */
+
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.a1{
+    margin-left:1200px ;
+}
+
+.a2{
+    text-align: center;
+    padding-top: 90px;
+    color: rgb(210, 142, 6);
+    font-family: 'REM', sans-serif;
+ 
+}
+.a2 h1{
+    font-size: 70px;
+}
+.b2{
+    text-align: center;
+    font-family: 'REM', sans-serif;
+    padding-bottom: 20px;
+}
+.b2 h1{
+    font-size: 70px; 
+}
+.b3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.b3 p{
+    font-size: 30px;
+    color:rgb(167, 167, 168)
+}
+.btn{
+    font-size: 40px;
+}
+.a3{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.a4 img{
+    width: 100%;
+     
+}
+
+.b4{
+    text-align: center;
+    padding-top: 50px;
+  font-family: 'REM', sans-serif;
+} 
+.b5{
+    font-family: 'Roboto', sans-serif;
+}
+.a5{
+    text-align: center;
+    padding-top: 100px;
+}
+.j1{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 120px;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(151, 151, 152)
+}
+
+.j1 h4{
+    font-family: 'REM', sans-serif;
+}
+
+
+.a7{
+   
+    text-align: center;
+}
+.a8{
+    padding-top: 80px;
+    text-align: center;
+}
+.btn btn-outline-secondary{
+    font-size: 40px;
+}
+
+.a9{
+    padding-top: 50px;
+    padding-bottom: 100px;
+text-align: center;
+}
+
+.c2{
+    padding-top: 80PX;
+    background-color: rgb(230, 230, 230);
+}
