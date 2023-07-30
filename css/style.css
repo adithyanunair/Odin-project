@@ -95,3 +95,49 @@ text-align: center;
     padding-top: 80PX;
     background-color: rgb(230, 230, 230);
 }
+
+/* styling all paths */
+
+
+
+.q1{
+    display:flex;
+    flex-wrap: wrap;
+}
+.q1 h2{
+    padding-left: 40px;
+    padding-top: 130px;
+    font-size: 40px;
+}
+.q1 button{
+    margin-left: 600px;
+    height: 70px;
+    width: 220px;
+    padding-top: 20px;
+    
+}
+.q2{
+    width: 40%;
+    justify-content: center;
+    padding-top: 40px;
+    color:rgb(151, 151, 152) ;
+}
+
+.q3{
+    padding-top: 150px;
+    text-align: center;
+
+}
+
+.q4{
+    padding-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.qp{
+    padding-left: 20px;
+}
+.qp img{
+    width: 250px;
+    margin-left: 160px;
+}
